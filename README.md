@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @digitaldegen
+- 👀 I’m interested in web3.0/community management
+- 🌱 I’m learning node.js/react.js
+- 📫 Contact: twitter/linkedin
